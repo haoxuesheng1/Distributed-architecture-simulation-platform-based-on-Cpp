@@ -51,7 +51,7 @@ F --> G[死锁预防机制]
 
 ### 构建项目
 ```bash
-git clone [https://github.com/yourusername/advanced-threadpool.git](https://github.com/haoxuesheng1/Distributed-architecture-simulation-platform-based-on-Cpp.git)
+git clone https://github.com/haoxuesheng1/Distributed-architecture-simulation-platform-based-on-Cpp.git
 cd ThreadPool
 # 可直接包含头文件使用
 mkdir build && cd build
